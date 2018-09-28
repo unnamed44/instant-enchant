@@ -1,0 +1,14 @@
+{
+	"files": {
+		"index.js": "f6da9513e5fd749fed34d5d0ef2818e85410b11775f91b10efb787766e0eba75",
+		"module.json": "fca7b3a98ed6234e08f4cb5633506ae25a08762c46d7ef79cbee66b86332a789"
+    },
+	"defs": {
+		"C_REGISTER_ENCHANT_ITEM": 1,
+		"C_REGISTER_UPGRADE_ITEM": 1,
+		"C_REQUEST_ENCHANT": ["raw", 1],
+		"C_REQUEST_UPGRADE": ["raw", 1],
+		"C_START_ENCHANT": 1,
+		"C_START_UPGRADE": 1
+	}
+}
